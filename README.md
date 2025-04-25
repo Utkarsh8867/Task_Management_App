@@ -35,5 +35,4 @@ https://github.com/user-attachments/assets/546dcb2c-1904-4301-bb10-0c9a70dd7441
 ## 📦 Installation  
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/task-management-app.git
-cd task-management-app
+
